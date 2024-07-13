@@ -10,6 +10,18 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hachimitsuboy/warp-cyber-wave.git"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "warp",
+    "cyber",
+    "wave",
+    "8mitsuboy"
+  ],
   "contributes": {
     "themes": [
       {
