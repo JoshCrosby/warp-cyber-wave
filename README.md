@@ -1,6 +1,10 @@
 # warp-cyber-wave 
 The color theme inspired by Warp's Cyber Wave theme!
 
+## Screenshots
+
+![VSCode screen using Warp Cyber Wave](./warp.png)
+
 ## Working with Markdown
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
