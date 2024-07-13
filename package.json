@@ -1,0 +1,22 @@
+{
+  "name": "warp-cyber-wave",
+  "displayName": "Warp Cyber Wave",
+  "description": "The color theme inspired by Warp's Cyber Wave theme!",
+  "version": "0.0.1",
+  "publisher": "8mitsuboy",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Warp Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Warp Theme-color-theme.json"
+      }
+    ]
+  }
+}
