@@ -5,14 +5,12 @@
   "version": "0.0.2",
   "publisher": "8mitsuboy",
   "icon": "./warp_icon.png",
-  "gallery": {
-    "screenshots": [
+  "screenshots": [
       {
         "path": "./warp.png",
         "description": "VSCode screen using Warp Cyber Wave"
       }
-    ]
-  },
+    ],
   "engines": {
     "vscode": "^1.91.0"
   },
