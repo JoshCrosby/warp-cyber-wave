@@ -1,17 +1,31 @@
-# warp-cyber-wave 
+# Warp Cyber Wave
+
 The color theme inspired by Warp's Cyber Wave theme!
 
 ## Screenshots
 
-![VSCode screen using Warp Cyber Wave](./warp.png)
+### The theme(half-size)
 
-## Working with Markdown
+![VSCode screen using Warp Cyber Wave Half](./img/half.png)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+### The theme(whole-size)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+![VSCode screen using Warp Cyber Wave Full](./img/full.png)
+
+### Javascript
+
+![Warp JavaScript](./img/JavaScript.png)
+
+## JSX
+
+![Warp JavaScript](./img/JSX.png)
+
+## CSS
+
+![Warp JavaScript](./img/CSS.png)
+
+
+
 
 ## For more information
 
