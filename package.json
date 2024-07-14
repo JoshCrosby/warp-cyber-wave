@@ -2,9 +2,9 @@
   "name": "warp-cyber-wave",
   "displayName": "Warp Cyber Wave",
   "description": "The color theme inspired by Warp's Cyber Wave theme!",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "publisher": "8mitsuboy",
-  "icon": "./warp_icon.png",
+  "icon": "./img/warp_icon.png",
   "screenshots": [
       {
         "path": "./warp.png",
