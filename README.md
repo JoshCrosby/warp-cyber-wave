@@ -12,7 +12,7 @@ The color theme inspired by Warp's Cyber Wave theme!
 
 ![VSCode screen using Warp Cyber Wave Full](./img/full.png)
 
-### Javascript
+### JAVASCRIPT
 
 ![Warp JavaScript](./img/JavaScript.png)
 
@@ -25,11 +25,13 @@ The color theme inspired by Warp's Cyber Wave theme!
 ![Warp JavaScript](./img/CSS.png)
 
 
+## Installation
+
+1. Open Extensions sidebar panel in VS Code. View → Extensions
+1. Search for Warp Cyber Wave
+1. Click Install to install it.
+1. Click Reload to reload the editor.
+1. File > Preferences > Color Theme > Beautiful Dracula Normal
 
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+# Thank you for installing and using my theme 🍯
