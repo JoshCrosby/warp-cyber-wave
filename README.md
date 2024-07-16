@@ -12,18 +12,6 @@ The color theme inspired by Warp's Cyber Wave theme!
 
 ![VSCode screen using Warp Cyber Wave Full](./img/full.png)
 
-### JAVASCRIPT
-
-![Warp JavaScript](./img/JavaScript.png)
-
-## JSX
-
-![Warp JavaScript](./img/JSX.png)
-
-## CSS
-
-![Warp JavaScript](./img/CSS.png)
-
 
 ## Installation
 
