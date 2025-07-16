@@ -2,8 +2,8 @@
   "name": "warp-cyber-wave",
   "displayName": "Warp Cyber Wave",
   "description": "The color theme inspired by Warp's Cyber Wave theme!",
-  "version": "0.0.9",
-  "publisher": "8mitsuboy",
+  "version": "0.1.0",
+  "publisher": "JoshCrosby",
   "icon": "img/warp_icon.png",
   "screenshots": [
       {
@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/hachimitsuboy/warp-cyber-wave.git"
+    "url": "https://github.com/joshcrosby/warp-cyber-wave.git"
   },
   "keywords": [
     "theme",
@@ -27,7 +27,7 @@
     "warp",
     "cyber",
     "wave",
-    "8mitsuboy"
+    "joshcrosby"
   ],
   "contributes": {
     "themes": [
