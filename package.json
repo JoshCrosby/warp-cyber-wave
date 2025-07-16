@@ -4,10 +4,10 @@
   "description": "The color theme inspired by Warp's Cyber Wave theme!",
   "version": "0.0.9",
   "publisher": "8mitsuboy",
-  "icon": "./img/warp_icon.png",
+  "icon": "img/warp_icon.png",
   "screenshots": [
       {
-        "path": "./warp.png",
+        "path": "warp.png",
         "description": "VSCode screen using Warp Cyber Wave"
       }
     ],
